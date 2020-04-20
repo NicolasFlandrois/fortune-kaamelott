@@ -12,44 +12,60 @@ Therefore, I decided to create my own database, with the best 120 quotes from th
 ## ***Copyghts Diclaimer:***
 This project is under MIT Licencing 2020. Non Profits.
 This project is intended for personal uses, and shall not be taken responcible for other users use or misbehavior.
+
 This project intend to respect the legal copyrights owners of ***Kaamelott***, and enforce such rights, if need be.
+
 I will delete this project if the copyright's owner, Mr A. Astier, demands so.
 
 ==========================
 # Installation
 
 1. Clone this repository.
+
     `git clone https://github.com/NicolasFlandrois/fortunes-kaamelott.git`
 
 2. Paste this 2 files (*kaamelott* and *kaamelott.dat*) in following fortunes directory (Unix/Linux files system here):
+
     `/usr/share/games/fortunes`
 
 3. Run your fortune application with Kaamelott
+
     `fortune kaamelott`
 
 ============================
 # How to customize your own database
 
 1. Create (or modify) your file. a simple file, with or without .txt extension.
+
     (Unix/Linux)
+
     `touch my_kaamelott_quotes`
 
 2. Edit this file with your new quotes. Use the text editeur of your choice. Each quotes must be contained in between 2 % symboles.
-    %
-    PAYS DE GALLE INDÉPENDAAAAAAAAAAAAAAAAAAAANT.
 
-    [ Perceval - Kaamelott - Écrit par: Alexandre Astier ]
-    %
-    Faut pas respirer la compote, ça fait tousser.
-
-    [ Kadoc - Kaamelott - Écrit par: Alexandre Astier ]
-    %
-    ...etc
+    >
+    >%
+    >
+    >PAYS DE GALLE INDÉPENDAAAAAAAAAAAAAAAAAAAANT.
+    >
+    >[ Perceval - Kaamelott - Écrit par: Alexandre Astier ]
+    >
+    >%
+    >
+    >Faut pas respirer la compote, ça fait tousser.
+    >
+    >[ Kadoc - Kaamelott - Écrit par: Alexandre Astier ]
+    >
+    >%
+    >
+    >...etc
 
 3. Save the edited file.
 
 4. Transform your file into a .dat file
+
     (Unix/Linux)
+
     `strfile my_kaamelott_quotes`
     The output file will be *my_kaamelott_quotes.dat*
 
