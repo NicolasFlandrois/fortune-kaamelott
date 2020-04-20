@@ -1,7 +1,7 @@
 # fortune-kaamelott
 [French] Compilation of the best quotes from 'Kaamelott' TV Show ( (c) Alexandre Astier), seet up to use in fortune-mod
 
-==========================
+************************
 
 This small project sets to customize a quotes database for the application [fortune-mod (cf wikipage)](https://en.wikipedia.org/wiki/Fortune_%28Unix%29), providing fortune cookies on demand.
 Fortune program returns a random quote from a given database, and allows its users to add up new database.
@@ -17,7 +17,7 @@ This project intend to respect the legal copyrights owners of ***Kaamelott***, a
 
 I will delete this project if the copyright's owner, Mr A. Astier, demands so.
 
-==========================
+----------------------------
 # Installation
 
 1. Clone this repository.
@@ -32,7 +32,7 @@ I will delete this project if the copyright's owner, Mr A. Astier, demands so.
 
     `fortune kaamelott`
 
-============================
+-------------------------------------
 # How to customize your own database
 
 1. Create (or modify) your file. a simple file, with or without .txt extension.
@@ -67,6 +67,7 @@ I will delete this project if the copyright's owner, Mr A. Astier, demands so.
     (Unix/Linux)
 
     `strfile my_kaamelott_quotes`
+
     The output file will be *my_kaamelott_quotes.dat*
 
 5. Then repeate steps in installation section.
