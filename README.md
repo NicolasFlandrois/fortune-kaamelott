@@ -6,11 +6,11 @@
 This small project sets to customize a quotes database for the application [fortune-mod (cf wikipage)](https://en.wikipedia.org/wiki/Fortune_%28Unix%29), providing fortune cookies on demand.
 Fortune program returns a random quote from a given database, and allows its users to add up new database.
 
-Therefore, I decided to create my own database, with the best 120 quotes from the french comedy TV show "Kaamelott" [(French Wiki page)](https://fr.wikipedia.org/wiki/Kaamelott) [(English Wiki page)](https://en.wikipedia.org/wiki/Kaamelott),  wrote by Alexandre Astier [En wiki](https://en.wikipedia.org/wiki/Alexandre_Astier) [Fr wiki](https://fr.wikipedia.org/wiki/Alexandre_Astier).
+Therefore, I decided to create my own database, with the best 120+ quotes from the french comedy TV show "Kaamelott" [(French Wiki page)](https://fr.wikipedia.org/wiki/Kaamelott) [(English Wiki page)](https://en.wikipedia.org/wiki/Kaamelott),  wrote by Alexandre Astier [En wiki](https://en.wikipedia.org/wiki/Alexandre_Astier) [Fr wiki](https://fr.wikipedia.org/wiki/Alexandre_Astier).
 
 -------------------------
 ## ***Copyghts Diclaimer:***
-This project is under MIT Licencing 2020. Non Profits.
+This project is under **MIT Licencing 2020. Non Profits.**
 This project is intended for personal uses, and shall not be taken responcible for other users use or misbehavior.
 
 This project intend to respect the legal copyrights owners of ***Kaamelott***, and enforce such rights, if need be.
